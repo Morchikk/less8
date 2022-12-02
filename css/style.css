@@ -29,8 +29,14 @@
   position: absolute;
   top: 50%;
   left: 60%;
-  z-index: 1;
   transition: all 5s ease;
+}
+.helicopter {
+  position: absolute;
+  width: 250px;
+  bottom: 75px;
+  right: 60px;
+  animation: helicopter 20s infinite;
 }
 
 .army:hover {
