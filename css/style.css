@@ -35,7 +35,7 @@
 
 .army:hover {
   width: 200px;
-  transform: rotate(45deg);
+  transform: rotate(35deg);
 }
 .bomber:hover {
   width: 450px;
