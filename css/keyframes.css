@@ -31,6 +31,6 @@
  @keyframes helicopter {
         from {bottom: 75px;}
         50% {bottom: 100px !important;}
-        to {bottom: 200px;}
+        to {bottom: 300px;}
       }
   }
